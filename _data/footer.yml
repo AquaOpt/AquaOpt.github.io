@@ -1,13 +1,13 @@
 - links:
   - name: Solutions
-    link: /solutions/
+    link: /#solutions
   - name: Team
-    link: /team/
+    link: /#team
 - links:
   - name: Contact
-    link: /contact/
+    link: /#contact
   - name: Roadmap
-    link: /roadmap/
+    link: /#roadmap
 
 - links:
   - name: LinkedIn

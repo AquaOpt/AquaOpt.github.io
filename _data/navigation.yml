@@ -1,16 +1,16 @@
 - name: Solutions
-  link: /solutions/
+  link: /#solutions
   new_window: false
   highlight: false
 - name: Team
-  link: /team/
+  link: /#team
   new_window: false
   highlight: false
 - name: Contact
-  link: /contact/
+  link: /#contact
   new_window: false
   highlight: false
 - name: Roadmap
-  link: /roadmap
-  new_window: true
+  link: /#roadmap
+  new_window: false
   highlight: false
