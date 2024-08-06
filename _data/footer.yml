@@ -1,0 +1,20 @@
+- links:
+  - name: Solutions
+    link: /solutions/
+  - name: Team
+    link: /team/
+- links:
+  - name: Contact
+    link: /contact/
+  - name: Roadmap
+    link: /roadmap/
+
+- links:
+  - name: LinkedIn
+    link: https://www.linkedin.com/company/aquaopt
+    new_window: true
+    social_icon: LinkedIn
+  - name: YouTube
+    link: https://youtube.com/aquaopt/
+    social_icon: YouTube
+    new_window: true
